@@ -141,7 +141,7 @@ function App() {
  return (
   <div className="container">
    <h1>TELOS x MEMOI HACK</h1>
-  <h1>Memoi Challenge DAppK</h1>
+  <h1>Memoi Challenge DApp</h1>
    <h4>By: TeamAwesome </h4>
    {currentAccount ? <h4>Wallet connected: {currentAccount}</h4> : <button onClick={connectWalletHandler}>Connect Wallet</button>}
    <h4>Admin address: {adminAddr}</h4>
