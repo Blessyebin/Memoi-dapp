@@ -3,7 +3,7 @@
 
 HOW IT IS BUILT
 
-The backend is built using Telos EVM. The frontend will be built siding React.js written in Typescript. The smart contract will be built using Solidity and JavaScript to work its way through the Hardhat Network.
+The backend is built using Telos EVM. The frontend will be built siding React.js written in Javascript. The smart contract will be built using Solidity and JavaScript to work its way through the Hardhat Network.
 
 Link to App
 https://memoi-dapp.vercel.app/
