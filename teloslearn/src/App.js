@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import contract from "./contracts/teloslearn.json";
 import { ethers } from "ethers";
 
-const contractAddr = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const contractAddr = "0x2EA5Ad5369ce26716564d73eC1802700ac92f97e";
 const abi = contract.abi;
 
 function App() {
@@ -140,8 +140,9 @@ function App() {
 
  return (
   <div className="container">
-   <h1>Build Your First Dapp</h1>
-   <h4>By: Stackup Username </h4>
+   <h1>TELOS x MEMOI HACK</h1>
+  <h1>Memoi Challenge DAppK</h1>
+   <h4>By: TeamAwesome </h4>
    {currentAccount ? <h4>Wallet connected: {currentAccount}</h4> : <button onClick={connectWalletHandler}>Connect Wallet</button>}
    <h4>Admin address: {adminAddr}</h4>
    <h2>
