@@ -27,3 +27,5 @@ This deploys to the telos testnet and output your smart contract address and the
 
 Link to App
 https://memoi-dapp.vercel.app/
+
+Video demo: [here](https://youtu.be/A5r8alSVNbI)
